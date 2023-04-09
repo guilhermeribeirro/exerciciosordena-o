@@ -1,0 +1,15 @@
+C:\Users\038216\source\repos\EXERCICIO 1 LISTA 6\EXERCICIO 1 LISTA 6\bin\Debug\net6.0\EXERCICIO 1 LISTA 6.exe
+C:\Users\038216\source\repos\EXERCICIO 1 LISTA 6\EXERCICIO 1 LISTA 6\bin\Debug\net6.0\EXERCICIO 1 LISTA 6.deps.json
+C:\Users\038216\source\repos\EXERCICIO 1 LISTA 6\EXERCICIO 1 LISTA 6\bin\Debug\net6.0\EXERCICIO 1 LISTA 6.runtimeconfig.json
+C:\Users\038216\source\repos\EXERCICIO 1 LISTA 6\EXERCICIO 1 LISTA 6\bin\Debug\net6.0\EXERCICIO 1 LISTA 6.dll
+C:\Users\038216\source\repos\EXERCICIO 1 LISTA 6\EXERCICIO 1 LISTA 6\bin\Debug\net6.0\EXERCICIO 1 LISTA 6.pdb
+C:\Users\038216\source\repos\EXERCICIO 1 LISTA 6\EXERCICIO 1 LISTA 6\obj\Debug\net6.0\EXERCICIO 1 LISTA 6.csproj.AssemblyReference.cache
+C:\Users\038216\source\repos\EXERCICIO 1 LISTA 6\EXERCICIO 1 LISTA 6\obj\Debug\net6.0\EXERCICIO 1 LISTA 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\038216\source\repos\EXERCICIO 1 LISTA 6\EXERCICIO 1 LISTA 6\obj\Debug\net6.0\EXERCICIO 1 LISTA 6.AssemblyInfoInputs.cache
+C:\Users\038216\source\repos\EXERCICIO 1 LISTA 6\EXERCICIO 1 LISTA 6\obj\Debug\net6.0\EXERCICIO 1 LISTA 6.AssemblyInfo.cs
+C:\Users\038216\source\repos\EXERCICIO 1 LISTA 6\EXERCICIO 1 LISTA 6\obj\Debug\net6.0\EXERCICIO 1 LISTA 6.csproj.CoreCompileInputs.cache
+C:\Users\038216\source\repos\EXERCICIO 1 LISTA 6\EXERCICIO 1 LISTA 6\obj\Debug\net6.0\EXERCICIO 1 LISTA 6.dll
+C:\Users\038216\source\repos\EXERCICIO 1 LISTA 6\EXERCICIO 1 LISTA 6\obj\Debug\net6.0\refint\EXERCICIO 1 LISTA 6.dll
+C:\Users\038216\source\repos\EXERCICIO 1 LISTA 6\EXERCICIO 1 LISTA 6\obj\Debug\net6.0\EXERCICIO 1 LISTA 6.pdb
+C:\Users\038216\source\repos\EXERCICIO 1 LISTA 6\EXERCICIO 1 LISTA 6\obj\Debug\net6.0\EXERCICIO 1 LISTA 6.genruntimeconfig.cache
+C:\Users\038216\source\repos\EXERCICIO 1 LISTA 6\EXERCICIO 1 LISTA 6\obj\Debug\net6.0\ref\EXERCICIO 1 LISTA 6.dll
